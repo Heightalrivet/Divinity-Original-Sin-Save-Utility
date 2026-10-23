@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Divinity-Original-Sin-Save-Utility` · Updated: 2026-10-07
+`Divinity-Original-Sin-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `divinity-original-sin` `savegame` `utility` `rpg` `crpg`
